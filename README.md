@@ -178,9 +178,3 @@ This project is intended to be released under the MIT License. See the `LICENSE`
 - LinkedIn: [Jahnavi S T](https://www.linkedin.com/in/jahnavi-s-t/)
 
 ---
-
-<p align="center">
-  ⭐ If RepoRadar helps you discover an interesting project, consider starring the repository!
-  <br />
-  Built to make open-source discovery easier, one repository at a time. 🚀
-</p>
