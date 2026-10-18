@@ -1,4 +1,4 @@
-# 🚀 RepoRadar — Discover Your Next Open-Source Project
+# 🚀 RepoRadar - Discover Your Next Open-Source Project
 
 <p align="center">
   <strong>Your radar for open-source discovery.</strong>
